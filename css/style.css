@@ -386,7 +386,7 @@ p {
 *************************************/
 
 #main-slide .item {
-    min-height: 375px;
+    min-height: 325px;
     color: #fff;
     background-position: 50% 50%;
     -webkit-background-size: cover;
@@ -1878,7 +1878,6 @@ sectionZ1
    font-size: 12px;
 }
 #sectionZ1 .tab-content{
-	height: 300px;
 }
 .list-group-item{
 	border: #ffffff;
@@ -1954,7 +1953,9 @@ sectionZ1
 /************************************
 sectionZ2
 *************************************/
-
+#sectionZ2 .more{
+	margin-top: 10px;
+}
 #sectionZ2  .tab-content>.active{
 	padding: 15px 0;
 }
@@ -1978,7 +1979,6 @@ sectionZ2
 	font-weight: bold;
 }
 #sectionZ2 .tab-pane{
-	height: 316px;
 }
 #sectionZ2 .tab-pane .nav-item a{
 	height: 60px;
